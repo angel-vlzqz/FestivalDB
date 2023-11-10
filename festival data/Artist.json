@@ -1,0 +1,644 @@
+[
+	{
+		"artistID" : 104201 ,
+		"firstname": "Adria",
+		"lastName": "Gregory",
+			"GenreofMusic": ["pop", "Country"]
+	},
+	{
+		"artistID": 104202,
+		"firstname": "Gwendolyn",
+		"lastName": "Moreno",
+		"GenreofMusic": ["hip hop"]
+	},
+	{
+		"artistID": 104203,
+		"firstname": "Samuel",
+		"lastName": "Roy",
+		"GenreofMusic": ["classical"]
+	},
+	{
+		"artistID": 104204,
+		"firstname": "Perry",
+		"lastName": "Freeman",
+		"GenreofMusic": ["R&B","Metel"]
+	},
+	{
+		"artistID": 104205,
+		"firstname": "Sara",
+		"lastName": "Foster",
+		"GenreofMusic": ["country"]
+	},
+	{
+		"artistID": 104206,
+		"firstname": "Alma",
+		"lastName": "Wilson",
+		"GenreofMusic": ["EDM"]
+	},
+	{
+		"artistID": 104207,
+		"firstname": "Armando",
+		"lastName": "Cooley",
+		"GenreofMusic": ["Latin"]
+	},
+	{
+		"artistID": 104208,
+		"firstname": "Hasad",
+		"lastName": "Shannon",
+		"GenreofMusic": ["K-pop", "pop"]
+	},
+	{
+		"artistID": 104209,
+		"firstname": "Cole",
+		"lastName": "Tucker",
+		"GenreofMusic": [ "country" ]
+
+	},
+	{
+		"artistID": 104210,
+		"firstname": "Adrian",
+		"lastName": "Watkins",
+		"GenreofMusic": [ "Metal","R&B" ]
+	},
+	{
+		"artistID": 104211,
+		"firstname": "Tanek",
+		"lastName": "Gonzales",
+		"GenreofMusic": [ "Latin" ]
+	},
+	{
+		"artistID": 104212,
+		"firstname": "Oliver",
+		"lastName": "Chang",
+		"GenreofMusic": [ "K-Pop" ]
+	},
+	{
+		"artistID": 104213,
+		"firstname": "Roary",
+		"lastName": "Kemp",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104214,
+		"firstname": "Adria",
+		"lastName": "Romero",
+		"GenreofMusic": [ "Latin" ]
+	},
+	{
+		"artistID": 104215,
+		"firstname": "Zephr",
+		"lastName": "Hall",
+		"GenreofMusic": [ "Metal" ]
+	},
+	{
+		"artistID": 104216,
+		"firstname": "Desirae",
+		"lastName": "Heath",
+		"GenreofMusic": [ "EDM", "pop" ]
+	},
+	{
+		"artistID": 104217,
+		"firstname": "Hiroko",
+		"lastName": "Butler",
+		"GenreofMusic": [ "K-pop" ]
+	},
+	{
+		"artistID": 104218,
+		"firstname": "Danielle",
+		"lastName": "Wood",
+		"GenreofMusic": [ "Classical" ]
+	},
+	{
+		"artistID": 104219,
+		"firstname": "Isabelle",
+		"lastName": "Macias",
+		"GenreofMusic": [ "Latin" ]
+	},
+	{
+		"artistID": 104220,
+		"firstname": "Roary",
+		"lastName": "Harper",
+		"GenreofMusic": [ "Pop", "EDM" ]
+	},
+	{
+		"artistID": 104221,
+		"firstname": "Thor",
+		"lastName": "Hughes",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104222,
+		"firstname": "Jolene",
+		"lastName": "Harrell",
+		"GenreofMusic": [ "EDM" ]
+	},
+	{
+		"artistID": 104223,
+		"firstname": "Patience",
+		"lastName": "Petersen",
+		"GenreofMusic": [ "Metal" ]
+	},
+	{
+		"artistID": 104224,
+		"firstname": "Miranda",
+		"lastName": "Robertson",
+		"GenreofMusic": [ "hip hop" ]
+	},
+	{
+		"artistID": 104225,
+		"firstname": "Jasper",
+		"lastName": "Bird",
+		"GenreofMusic": [ "R&B", "EDM" ]
+	},
+	{
+		"artistID": 104226,
+		"firstname": "Rebecca",
+		"lastName": "Knight",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104227,
+		"firstname": "Len",
+		"lastName": "Horne",
+		"GenreofMusic": [ "hip hop" ]
+	},
+	{
+		"artistID": 104228,
+		"firstname": "Rigel",
+		"lastName": "Campbell",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104229,
+		"firstname": "Wallace",
+		"lastName": "Roy",
+		"GenreofMusic": [ "Latin" ]
+	},
+	{
+		"artistID": 104230,
+		"firstname": "Sawyer",
+		"lastName": "Sheppard",
+		"GenreofMusic": [ "Country" ]
+	},
+	{
+		"artistID": 104231,
+		"firstname": "Tallulah",
+		"lastName": "Rhodes",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104232,
+		"firstname": "Victoria",
+		"lastName": "Savage",
+		"GenreofMusic": [ "R&B" ]
+	},
+	{
+		"artistID": 104233,
+		"firstname": "Murphy",
+		"lastName": "Potts",
+		"GenreofMusic": [ "Classical" ]
+	},
+	{
+		"artistID": 104234,
+		"firstname": "James",
+		"lastName": "Middleton",
+		"GenreofMusic": [ "Classical" ]
+	},
+	{
+		"artistID": 104235,
+		"firstname": "James",
+		"lastName": "Case",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104236,
+		"firstname": "Hamilton",
+		"lastName": "Boyle",
+		"GenreofMusic": [ "Metal" ]
+	},
+	{
+		"artistID": 104237,
+		"firstname": "Dillon",
+		"lastName": "Lamb",
+		"GenreofMusic": [ "EDM" ]
+	},
+	{
+		"artistID": 104238,
+		"firstname": "Bert",
+		"lastName": "Norton",
+		"GenreofMusic": [ "Classical" ]
+	},
+	{
+		"artistID": 104239,
+		"firstname": "Diana",
+		"lastName": "Beck",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104240,
+		"firstname": "Lenore",
+		"lastName": "Mejia",
+		"GenreofMusic": [ "EDM" ]
+	},
+	{
+		"artistID": 104241,
+		"firstname": "Ella",
+		"lastName": "Lawrence",
+		"GenreofMusic": [ "Classical" ]
+	},
+	{
+		"artistID": 104242,
+		"firstname": "Yael",
+		"lastName": "Blackburn",
+		"GenreofMusic": [ "pop"]
+	},
+	{
+		"artistID": 104243,
+		"firstname": "Frances",
+		"lastName": "Woods",
+		"GenreofMusic": [ "R&B" ]
+	},
+	{
+		"artistID": 104244,
+		"firstname": "Orson",
+		"lastName": "Pugh",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104245,
+		"firstname": "Kasimir",
+		"lastName": "Moran",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104246,
+		"firstname": "Walker",
+		"lastName": "Vasquez",
+		"GenreofMusic": [ "Latin" ]
+	},
+	{
+		"artistID": 104247,
+		"firstname": "Samantha",
+		"lastName": "Acosta",
+		"GenreofMusic": [ "K-pop" ]
+	},
+	{
+		"artistID": 104248,
+		"firstname": "Autumn",
+		"lastName": "Lester",
+		"GenreofMusic": [ "country" ]
+	},
+	{
+		"artistID": 104249,
+		"firstname": "Helen",
+		"lastName": "Christian",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104250,
+		"firstname": "Kylee",
+		"lastName": "Russell",
+		"GenreofMusic": [ "EDM" ]
+	},
+	{
+		"artistID": 104251,
+		"firstname": "Valentine",
+		"lastName": "Cameron",
+		"GenreofMusic": [ "pop" ]
+	},
+	{
+		"artistID": 104252,
+		"firstname": "Colin",
+		"lastName": "Nielsen",
+		"GenreofMusic": [ "EDM" ]
+
+	},
+	{
+		"artistID": 104253,
+		"firstname": "Isaac",
+		"lastName": "Riggs",
+		"GenreofMusic": [ "country" ]
+
+	},
+	{
+		"artistID": 104254,
+		"firstname": "Tamara",
+		"lastName": "Talley",
+		"GenreofMusic": [ "Latin" ]
+
+	},
+	{
+		"artistID": 104255,
+		"firstname": "Hilda",
+		"lastName": "Riley",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104256,
+		"firstname": "Kato",
+		"lastName": "Clarke",
+		"GenreofMusic": [ "EDM" ]
+
+	},
+	{
+		"artistID": 104257,
+		"firstname": "Tana",
+		"lastName": "Witt",
+		"GenreofMusic": [ "country" ]
+
+	},
+	{
+		"artistID": 104258,
+		"firstname": "Felix",
+		"lastName": "Levy",
+		"GenreofMusic": [ "R&B" ]
+
+	},
+	{
+		"artistID": 104259,
+		"firstname": "Merrill",
+		"lastName": "Barber",
+		"GenreofMusic": [ "k-pop" ]
+
+	},
+	{
+		"artistID": 104260,
+		"firstname": "Allistair",
+		"lastName": "Lester",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104261,
+		"firstname": "Branden",
+		"lastName": "Foster",
+		"GenreofMusic": [ "Hip hop" ]
+
+	},
+	{
+		"artistID": 104262,
+		"firstname": "Cadman",
+		"lastName": "Gilbert",
+		"GenreofMusic": [ "EDM" ]
+
+	},
+	{
+		"artistID": 104263,
+		"firstname": "Ciaran",
+		"lastName": "Valdez",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104264,
+		"firstname": "Inga",
+		"lastName": "Church",
+		"GenreofMusic": [ "pop" ]
+
+	},
+	{
+		"artistID": 104265,
+		"firstname": "Darryl",
+		"lastName": "Dorsey",
+		"GenreofMusic": [ "Hip hop" ]
+
+	},
+	{
+		"artistID": 104266,
+		"firstname": "Amethyst",
+		"lastName": "Bullock",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104267,
+		"firstname": "Sylvester",
+		"lastName": "Houston",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104268,
+		"firstname": "Zachery",
+		"lastName": "Suarez",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104269,
+		"firstname": "Marah",
+		"lastName": "Burgess",
+		"GenreofMusic": [ "Latin" ]
+
+	},
+	{
+		"artistID": 104270,
+		"firstname": "Piper",
+		"lastName": "Young",
+		"GenreofMusic": [ "Latin" ]
+
+	},
+	{
+		"artistID": 104271,
+		"firstname": "Lucas",
+		"lastName": "Mathews",
+		"GenreofMusic": [ "EDM" ]
+
+	},
+	{
+		"artistID": 104272,
+		"firstname": "Dorian",
+		"lastName": "Doyle",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104274,
+		"firstname": "Vivian",
+		"lastName": "Kline",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104275,
+		"firstname": "Sara",
+		"lastName": "Brewer",
+		"GenreofMusic": [ "Hip hop" ]
+
+	},
+	{
+		"artistID": 104276,
+		"firstname": "Shad",
+		"lastName": "Lopez",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104277,
+		"firstname": "Brendan",
+		"lastName": "Marquez",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104278,
+		"firstname": "Vielka",
+		"lastName": "Anderson",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104279,
+		"firstname": "Rhoda",
+		"lastName": "Meyers",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104280,
+		"firstname": "Galvin",
+		"lastName": "Larson",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104281,
+		"firstname": "Brock",
+		"lastName": "Gates",
+		"GenreofMusic": [ "EDM" ]
+
+	},
+	{
+		"artistID": 104282,
+		"firstname": "Jenna",
+		"lastName": "Gallagher",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104283,
+		"firstname": "Desiree",
+		"lastName": "Ramos",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104284,
+		"firstname": "Hedda",
+		"lastName": "Gonzalez",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104285,
+		"firstname": "Cooper",
+		"lastName": "Best",
+		"GenreofMusic": [ "R&B" ]
+
+	},
+	{
+		"artistID": 104286,
+		"firstname": "Wesley",
+		"lastName": "Whitehead",
+		"GenreofMusic": [ "Latin" ]
+
+	},
+	{
+		"artistID": 104287,
+		"firstname": "Angela",
+		"lastName": "Monroe",
+		"GenreofMusic": [ "Country" ]
+
+	},
+	{
+		"artistID": 104288,
+		"firstname": "Sasha",
+		"lastName": "Weaver",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104289,
+		"firstname": "Orla",
+		"lastName": "Acevedo",
+		"GerneofMusic": ["Latin"]
+	},
+	{
+		"artistID": 104290,
+		"firstname": "Yardley",
+		"lastName": "Schultz",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104291,
+		"firstname": "Melyssa",
+		"lastName": "Hanson",
+		"GenreofMusic": [ "EMD" ]
+
+	},
+	{
+		"artistID": 104292,
+		"firstname": "Vladimir",
+		"lastName": "Ford",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104293,
+		"firstname": "Fitzgerald",
+		"lastName": "Fulton",
+		"GenreofMusic": [ "R&B" ]
+
+	},
+	{
+		"artistID": 104294,
+		"firstname": "Frances",
+		"lastName": "Douglas",
+		"GenreofMusic": [ "K-pop" ]
+
+	},
+	{
+		"artistID": 104295,
+		"firstname": "Judah",
+		"lastName": "Knox",
+		"GenreofMusic": [ "Classical" ]
+
+	},
+	{
+		"artistID": 104296,
+		"firstname": "Rose",
+		"lastName": "Dudley",
+		"GenreofMusic": [ "Latin" ]
+
+	},
+	{
+		"artistID": 104297,
+		"firstname": "Joshua",
+		"lastName": "Hayes",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104298,
+		"firstname": "Hedley",
+		"lastName": "Foster",
+		"GenreofMusic": [ "Metal" ]
+
+	},
+	{
+		"artistID": 104299,
+		"firstname": "Zeph",
+		"lastName": "Kennedy",
+		"GenreofMusic": [ "EDM" ]
+
+	},
+	{
+		"artistID": 104300,
+		"firstname": "Shelby",
+		"lastName": "Franks",
+		"GenreofMusic": [ "K-pop" ]
+
+	}
+]

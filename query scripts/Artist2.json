@@ -1,0 +1,172 @@
+[{
+  "firstname": "Alma",
+  "lastName": "Wilson",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage8",
+      "time": "12:40 pm"
+    }
+  ]
+},{
+  "firstname": "Desirae",
+  "lastName": "Heath",
+  "GenreofMusic": [
+    "EDM",
+    "pop"
+  ],
+  "result": [
+    {
+      "location": "Stage1",
+      "time": "7:10 pm"
+    }
+  ]
+},{
+  "firstname": "Roary",
+  "lastName": "Harper",
+  "GenreofMusic": [
+    "Pop",
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage7",
+      "time": "10:04 pm"
+    }
+  ]
+},{
+  "firstname": "Jolene",
+  "lastName": "Harrell",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage5",
+      "time": "2:18 pm"
+    }
+  ]
+},{
+  "firstname": "Jasper",
+  "lastName": "Bird",
+  "GenreofMusic": [
+    "R&B",
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage6",
+      "time": "1:31 pm"
+    }
+  ]
+},{
+  "firstname": "Dillon",
+  "lastName": "Lamb",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage8",
+      "time": "4:19 pm"
+    }
+  ]
+},{
+  "firstname": "Lenore",
+  "lastName": "Mejia",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage5",
+      "time": "7:49 pm"
+    }
+  ]
+},{
+  "firstname": "Kylee",
+  "lastName": "Russell",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage3",
+      "time": "6:33 pm"
+    }
+  ]
+},{
+  "firstname": "Colin",
+  "lastName": "Nielsen",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage3",
+      "time": "10:39 am"
+    }
+  ]
+},{
+  "firstname": "Kato",
+  "lastName": "Clarke",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage8",
+      "time": "3:36 pm"
+    }
+  ]
+},{
+  "firstname": "Cadman",
+  "lastName": "Gilbert",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage8",
+      "time": "9:49 pm"
+    }
+  ]
+},{
+  "firstname": "Lucas",
+  "lastName": "Mathews",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage6",
+      "time": "5:11 pm"
+    }
+  ]
+},{
+  "firstname": "Brock",
+  "lastName": "Gates",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage4",
+      "time": "3:23 pm"
+    }
+  ]
+},{
+  "firstname": "Zeph",
+  "lastName": "Kennedy",
+  "GenreofMusic": [
+    "EDM"
+  ],
+  "result": [
+    {
+      "location": "Stage3",
+      "time": "12:58 pm"
+    }
+  ]
+}]

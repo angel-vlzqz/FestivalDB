@@ -1,0 +1,13 @@
+[{
+  "firstname": "Patience",
+  "lastName": "Petersen",
+  "GenreofMusic": [
+    "Metal"
+  ],
+  "result": [
+    {
+      "location": "Stage7",
+      "time": "7:25 pm"
+    }
+  ]
+}]
